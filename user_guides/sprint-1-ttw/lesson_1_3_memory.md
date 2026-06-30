@@ -201,12 +201,12 @@ python sprint_1/lesson_1_3_memory.py
 === TopicToWeb AI Chatbot Activated ===
 Type 'exit' or 'quit' to terminate the session.
 
-You: My name is Samar.
-AI: Nice to meet you, Samar! How can I help you today?
+You: My name is Alice.
+AI: Nice to meet you, Alice! How can I help you today?
 [Tokens -> Prompt: 11 | Response: 15]
 
 You: What is my name?
-AI: Your name is Samar.
+AI: Your name is Alice.
 [Tokens -> Prompt: 39 | Response: 6]
 
 You: exit
